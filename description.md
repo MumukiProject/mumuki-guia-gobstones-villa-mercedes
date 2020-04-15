@@ -2,5 +2,6 @@ Continuamos nuestro viaje por la Provincia y llegamos a _Villa Mercedes_. En ell
 
  
 :books: Para hacer estos ejercicios necesitás tener los conocimientos de:
+
 * [Parámetros](https://mumuki.io/primaria.sanluis/chapters/295-sobre-gustos-no-hay-parametros)
 * [Funciones](https://mumuki.io/primaria.sanluis/chapters/296-un-mar-de-funciones)

@@ -1,0 +1,1 @@
+Como antes de devolver si hay bolitas azules tenés que moverte, necesitarás el bloque de función que te lo permita hacer. El camino del tren es el que está entre la barrera y la estación. 

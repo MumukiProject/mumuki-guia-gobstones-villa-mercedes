@@ -1,0 +1,1 @@
+Tené en cuenta que no siempre tenemos que controlar la barrera. Sólo debemos hacerlo si hay una barrera.
